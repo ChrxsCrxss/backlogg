@@ -6,35 +6,36 @@ Website designed for programmers and coders to anonymously gossip about their so
 
 ## Technologies Used
 
+### Server-Side
 * Maven
 * PostgreSQL
 * Java
 * Jackson
 * Tomcat
-* Eclipse
-* VSCode
 * SpringMVC
+* JUnit4
+* Mockito
+* Eclipse
+
+### Client-Side
 * Typescript
 * Angular
 * Hibernate
 * Jasmine
 * Protractor
-* JUnit4
-* Mockito
+* VSCode
 
 ## Features
 
 List of features ready:
-* sign up
-* log in/log out
-* make posts
-* make comments on posts
-* add photos when creating posts
-* can request other users to be friends
-* can accept friend requests
-* can look up other users on a search bar
-* rate posts by their “spiciness” level using a jalapeno or milk rating system.
-* every user has a default profile picture
+* Registration and Authentication 
+* Make posts
+* Comments on posts
+* Upload photos when creating posts
+* Request other users to be friends
+* Accept/reject friend requests
+* Search other users
+* React to posts by their “spiciness” level using a jalapeno or milk rating system.
 
 TODO list:
 * every profile should have a picture/avatar uploaded. (default profile pic if a custom one is not uploaded)
