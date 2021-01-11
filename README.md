@@ -70,3 +70,7 @@ While you can directly message your friends you can only view the last post they
 You can befriend a user by typing in their username next to "Enter username", and then hitting yes if the person exists. The screen will change to reflect that you have made a request and it won't go away until the person you want to befriend accepts or rejects the request.
 If a person is a friend, you can directly message a friend by typing in their name, then the message you want to send. Then click send.
 You can also search for a user in a search bar in the upper-right corner of the screen
+
+## License
+
+This project uses the following license: [MIT License](https://opensource.org/licenses/MIT).
