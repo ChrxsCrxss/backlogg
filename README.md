@@ -1,8 +1,9 @@
-# backlogg
+# Backlogg
 
 ## Project Description
 
-Website designed for programmers and coders to anonymously gossip about their software engineering jobs and coworkers.
+Backlog is a semi-anonymous social media platform geared toward techies. It is envisioned as a cross between 
+Reddit and Yik-Yak (rip).
 
 ## Technologies Used
 
@@ -35,7 +36,7 @@ List of features ready:
 * Request other users to be friends
 * Accept/reject friend requests
 * Search other users
-* React to posts by their “spiciness” level using a jalapeno or milk rating system.
+* React to post. It is super spicy content or milquetoast 
 
 TODO list:
 * every profile should have a picture/avatar uploaded. (default profile pic if a custom one is not uploaded)
